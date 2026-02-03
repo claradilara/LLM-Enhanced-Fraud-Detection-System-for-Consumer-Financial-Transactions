@@ -1,4 +1,4 @@
-======================== README.md ========================
+
 
 # 💳 LLM-Enhanced Fraud Detection System
 ### Consumer Financial Transactions | Big Data | GenAI
@@ -29,17 +29,17 @@ Raw Transactions
 ## 🗂️ Repository Structure
 fraud-detection-llm/
 ├── data/
-│   ├── raw/              # Local only (not committed)
-│   └── processed/        # Local only (not committed)
+│ ├── raw/ # Local only (not committed)
+│ └── processed/ # Local only (not committed)
 │
 ├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Feature_Engineering.ipynb
-│   ├── Model_Training.ipynb
-│   └── LLM_Explanation_Demo.ipynb
+│ ├── EDA.ipynb
+│ ├── Feature_Engineering.ipynb
+│ ├── Model_Training.ipynb
+│ └── LLM_Explanation_Demo.ipynb
 │
 ├── src/
-│   └── llm_explainer.py
+│ └── llm_explainer.py
 │
 ├── README.md
 ├── requirements.txt
